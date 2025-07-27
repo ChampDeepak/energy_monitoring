@@ -104,7 +104,7 @@ public class Main {
 
         } while (continueChoice.equals("Y"));
 
-        System.out.println("👋 Take A Deep Breathe!");
+        System.out.println("👋 Take A Deep Breath!");
         System.out.println("And Have A Nice Day.");
         scanner.close();
     }
