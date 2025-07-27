@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EnergyMonitoring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EnergyMonitoring.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
